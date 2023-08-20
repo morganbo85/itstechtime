@@ -17,6 +17,6 @@
 - [Popcorn Perpective](https://popcornperspective1.com/)
 
 ### 📫 How to reach me:
-  - Youtube   : <https://www.youtube.com/channel/UCSoOxYNsGAgFxd2iyzPi-Wg>
+  - Youtube   : <https://www.youtube.com/@networkbo>
   - Facebook  : <https://www.facebook.com/networkbo>
   - Website   : <https://networkbo.net>
