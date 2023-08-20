@@ -25,6 +25,6 @@
 - [bmorgan/fitness_app](https://github.com/morganbo85/fitness_app) - Fitness Stats Loggin App
 
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/ChrisTitusTech](https://www.youtube.com/channel/UCSoOxYNsGAgFxd2iyzPi-Wg>
+  - Youtube   : <https://www.youtube.com/channel/UCSoOxYNsGAgFxd2iyzPi-Wg>
   - Facebook  : <https://www.facebook.com/networkbo>
   - Website   : <https://networkbo.net>
