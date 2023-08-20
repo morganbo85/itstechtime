@@ -24,6 +24,11 @@
 ### 🌱 My latest projects
 - [bmorgan/fitness_app](https://github.com/morganbo85/fitness_app) - Fitness Stats Loggin App
 
+### 📰 Recent Blog Posts
+
+- [Network Bo](https://networkbo.net/)
+- [Popcorn Perpective](https://popcornperspective1.com/)
+
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UCSoOxYNsGAgFxd2iyzPi-Wg>
   - Facebook  : <https://www.facebook.com/networkbo>
