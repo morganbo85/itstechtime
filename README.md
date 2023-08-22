@@ -4,7 +4,6 @@
 
 
 ### 👷 Check out what I'm currently working on
-- [bmorgan/fitness](https://github.com/morganbo85/bmorgan/tree/main/fitness) - My fitness blog
 - [bmorgan/networkbo](https://github.com/morganbo85/bmorgan/tree/main/networkbo) - My talk IT website and Youtube Channel
 - [bmorgan/popcornperspective](https://github.com/morganbo85/bmorgan/tree/main/popcornperspective) - My Movie/TV blog
 
