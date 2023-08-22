@@ -9,6 +9,7 @@
 
 ### 🌱 My latest projects
 - [bmorgan/fitness_app](https://github.com/morganbo85/fitness_app) - Fitness Stats Loggin App
+- [morganbo85/inventory_scan](https://github.com/morganbo85/inventory_scan) - PS script for managing user inventory remotely
 
 ### 📰 Recent Blog Posts
 
