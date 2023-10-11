@@ -1,6 +1,10 @@
-## Step 1 Create a Linode Server
+## Step 1 Create a Linux Server
 
+Can be a local machine, virtual machine, or in the cloud
 
+To create a Linode cloud server:
+* Create an account
+*Linode $100 Credit 👉https://www.linode.com/lp/refer/?r=b420ceee80b491c6c20b546370f0a1f231b763cb
 
 
 ## Step 2 Install Docker
